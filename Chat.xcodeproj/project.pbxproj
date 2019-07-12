@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3909F46B22D86E3200C910FF /* SS1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3909F46A22D86E3200C910FF /* SS1.png */; };
 		3DD15F2922B3548600174348 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD15F2822B3548600174348 /* AppDelegate.swift */; };
 		3DD15F2B22B3548600174348 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD15F2A22B3548600174348 /* ViewController.swift */; };
 		3DD15F2E22B3548600174348 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DD15F2C22B3548600174348 /* Main.storyboard */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3909F46A22D86E3200C910FF /* SS1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SS1.png; sourceTree = "<group>"; };
 		3DD15F2522B3548600174348 /* Chat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DD15F2822B3548600174348 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DD15F2A22B3548600174348 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -165,6 +167,7 @@
 		3DD15F6322B36E1500174348 /* Resource */ = {
 			isa = PBXGroup;
 			children = (
+				3909F46A22D86E3200C910FF /* SS1.png */,
 			);
 			path = Resource;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3909F46B22D86E3200C910FF /* SS1.png in Resources */,
 				3DD15F3322B3548700174348 /* LaunchScreen.storyboard in Resources */,
 				3DD15F6222B3654C00174348 /* ChatMessageCell.xib in Resources */,
 				3DD15F3022B3548700174348 /* Assets.xcassets in Resources */,
